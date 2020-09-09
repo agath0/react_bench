@@ -1,0 +1,16 @@
+*{
+    margin:0;
+}
+
+
+.app{
+    max-width: 400px;
+    margin:30px auto;
+    text-align:center;
+}
+
+.navbar{
+    padding: 5px;
+
+}
+

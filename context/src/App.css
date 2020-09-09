@@ -1,0 +1,34 @@
+.app{
+    display: block;
+}
+
+nav{
+    padding:5px;
+}
+
+nav ul{
+    padding:0;
+}
+
+nav ul li{
+    display: inline-block;
+    margin:0 10px;
+}
+
+
+.list{
+    padding:20px;
+    margin-bottom: 20px;
+}
+
+.list ul{
+    padding:0;
+    list-style-type:none;
+}
+
+.list li{
+    padding:10px;
+    margin:10px auto;
+    border-radius:10px;
+    background-color: lightgrey;
+}
